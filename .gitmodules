@@ -1,0 +1,9 @@
+[submodule "Pristine Copy/Bundles/JSON.tmbundle"]
+	path = Pristine Copy/Bundles/JSON.tmbundle
+	url = git://github.com/textmate/json.tmbundle.git
+[submodule "Pristine Copy/Bundles/Javascript Tools.tmbundle"]
+	path = Pristine Copy/Bundles/Javascript Tools.tmbundle
+	url = git://github.com/johnmuhl/javascript-tools-tmbundle.git
+[submodule "Pristine Copy/Bundles/jQuery.tmbundle"]
+	path = Pristine Copy/Bundles/jQuery.tmbundle
+	url = git://github.com/kswedberg/jquery-tmbundle.git
