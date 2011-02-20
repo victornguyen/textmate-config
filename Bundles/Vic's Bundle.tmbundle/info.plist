@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>214DB78A-360B-4135-AFDA-D64A2EE8EDA9</string>
+			<string>CB2D96AD-8124-444B-BB0A-E1E6E1E135C9</string>
+			<string>42558D7A-9EA9-46A2-AAAE-8909FD507F24</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>214DB78A-360B-4135-AFDA-D64A2EE8EDA9</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>1BB92244-7CD3-4690-A02C-0EA709F2FA3E</string>
+				</array>
+				<key>name</key>
+				<string>HTML</string>
+			</dict>
+			<key>42558D7A-9EA9-46A2-AAAE-8909FD507F24</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>65DC26C9-6A4D-4FC5-83E2-ABF242AA7E70</string>
+				</array>
+				<key>name</key>
+				<string>JS</string>
+			</dict>
+			<key>CB2D96AD-8124-444B-BB0A-E1E6E1E135C9</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>386D9DC9-D505-4CBF-B4F0-725F979F346C</string>
+				</array>
+				<key>name</key>
+				<string>CSS</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>name</key>
+	<string>Vic's Stuff</string>
+	<key>ordering</key>
+	<array>
+		<string>386D9DC9-D505-4CBF-B4F0-725F979F346C</string>
+		<string>65DC26C9-6A4D-4FC5-83E2-ABF242AA7E70</string>
+		<string>1BB92244-7CD3-4690-A02C-0EA709F2FA3E</string>
+	</array>
+	<key>uuid</key>
+	<string>52993BA3-0470-48DF-BBFD-A1B79070666D</string>
+</dict>
+</plist>
