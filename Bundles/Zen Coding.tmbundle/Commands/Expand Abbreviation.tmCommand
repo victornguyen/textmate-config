@@ -11,7 +11,7 @@
 	<key>input</key>
 	<string>selection</string>
 	<key>keyEquivalent</key>
-	<string>@e</string>
+	<string>@,</string>
 	<key>name</key>
 	<string>Expand Abbreviation</string>
 	<key>output</key>
