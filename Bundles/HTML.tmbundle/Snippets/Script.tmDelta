@@ -3,12 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>changed</key>
-	<dict/>
+	<dict>
+		<key>content</key>
+		<string>&lt;script&gt;
+	$0
+&lt;/script&gt;</string>
+	</dict>
 	<key>deleted</key>
 	<array/>
 	<key>isDelta</key>
 	<true/>
 	<key>uuid</key>
-	<string>B2B32343-BDBC-45A3-8E73-E55E9FAE380F</string>
+	<string>6592050A-A087-11D9-A5A2-000D93C8BE28</string>
 </dict>
 </plist>

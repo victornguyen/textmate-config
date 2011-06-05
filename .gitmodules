@@ -7,3 +7,6 @@
 [submodule "Pristine Copy/Bundles/jQuery.tmbundle"]
 	path = Pristine Copy/Bundles/jQuery.tmbundle
 	url = git://github.com/kswedberg/jquery-tmbundle.git
+[submodule "Pristine Copy/Bundles/JSLintMate.tmbundle"]
+	path = Pristine Copy/Bundles/JSLintMate.tmbundle
+	url = git://github.com/rondevera/jslintmate.git
