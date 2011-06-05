@@ -30,6 +30,8 @@
 &lt;/html&gt;</string>
 	<key>name</key>
 	<string>HTML starter</string>
+	<key>scope</key>
+	<string>text.html</string>
 	<key>tabTrigger</key>
 	<string>htmlstarter</string>
 	<key>uuid</key>
