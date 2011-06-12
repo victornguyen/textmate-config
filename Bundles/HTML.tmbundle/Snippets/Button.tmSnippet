@@ -3,9 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;button${1: id="${2:name}"}&gt;
-	${0:$TM_SELECTED_TEXT}
-&lt;/button&gt;</string>
+	<string>&lt;button${1: id="${2:name}"}&gt;${0:$TM_SELECTED_TEXT}&lt;/button&gt;</string>
 	<key>name</key>
 	<string>Button</string>
 	<key>scope</key>
