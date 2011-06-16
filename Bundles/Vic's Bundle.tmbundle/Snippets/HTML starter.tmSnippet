@@ -19,7 +19,7 @@
 	
 	&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
     
-    &lt;script src="http://ajax.cdnjs.com/ajax/libs/modernizr/1.7/modernizr-1.7.min.js"&gt;&lt;/script&gt;
+    &lt;script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.4/modernizr.min.js"&gt;&lt;/script&gt;
 &lt;/head&gt;
 &lt;body&gt;
     
